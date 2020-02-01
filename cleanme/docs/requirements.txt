@@ -1,5 +1,0 @@
-sphinxcontrib-restbuilder
-sphinxcontrib-globalsubs
-sphinx-prompt
-Sphinx-Substitution-Extensions
-sphinx_rtd_theme
