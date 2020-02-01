@@ -1,0 +1,20 @@
+[submodule "autodebian"]
+	path = autodebian
+	url = https://gitlab.com/constrict0r/autodebian
+	branch = master
+[submodule "cleanme"]
+	path = cleanme
+	url = https://gitlab.com/constrict0r/cleanme
+	branch = master
+[submodule "docthis"]
+	path = docthis
+	url = https://gitlab.com/constrict0r/docthis
+	branch = master
+[submodule "testme"]
+	path = testme
+	url = https://gitlab.com/constrict0r/testme
+	branch = master
+[submodule "parts"]
+	path = parts
+	url = https://gitlab.com/constrict0r/parts
+	branch = master
