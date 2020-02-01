@@ -46,6 +46,8 @@ component doombots {
 
     package develpy
 
+    package develmicro
+
     package devels
 
     package madvillain
@@ -118,9 +120,15 @@ component doombots {
 
     develpy --> develbase : uses config
 
+    develmicro --* constructor
+
+    develmicro --> develbase : uses config
+
     devels --* constructor
 
     devels --> develpy: uses config
+
+    devels --> develmicro: uses config
 
     madvillain --* constructor
 
