@@ -50,7 +50,7 @@ Clone the repository and its submodules:
 
 ::
 
-   git clone --recurse-submodules -j8 git://gitlab.com/constrict0r/doombots.git
+   git clone --recurse-submodules https://gitlab.com/constrict0r/doombots.git
 
 
 Components
